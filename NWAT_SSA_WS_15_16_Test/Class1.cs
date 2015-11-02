@@ -8,5 +8,9 @@ namespace NWAT_SSA_WS_15_16_Test
 {
     class Class1
     {
+        static void Main (string[] args)
+        {
+            string x = "";
+        }
     }
 }
